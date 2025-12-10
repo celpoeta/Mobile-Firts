@@ -9,3 +9,13 @@
 .trend-up {
     background-image: url(/assets/icons/trending-up.svg);
 }
+
+.icon__arrow-right {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url(/assets/icons/arrow-right.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
