@@ -19,3 +19,17 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.carousel__button-prev {
+    background-image: url(/assets/icons/carousel__button_prev.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.carousel__button-next {
+    background-image: url(/assets/icons/carousel__button_next.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
