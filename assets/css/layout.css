@@ -55,7 +55,7 @@ main {
 .bitcoin__img-container {
     width: 100%;
     height: 50vh;
-    background-image: url(/assets/img/bitcoinbaby.jpg);
+    background-image: url('https://res.cloudinary.com/cflores/image/upload/v1765639574/mobile-firts/bitcoinbaby_kbogfv.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
